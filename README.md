@@ -59,6 +59,19 @@
 - **Persistent Chat History**: Store chat logs for future access.
 - **Enhanced GUI**: Add additional features such as emojis, file sharing, and themes.
 
+## Screenshots 
+
+![server](https://github.com/user-attachments/assets/2f29edfc-abe8-4cfb-abe2-665120da14dc)
+![GUI run command](https://github.com/user-attachments/assets/d7aad1e8-37e1-4a93-b856-96ea584e3a0a)
+![login page](https://github.com/user-attachments/assets/9035ded9-11e7-444c-b495-9fdea7fd85a6)
+![login page(1)](https://github.com/user-attachments/assets/81772e0d-b9b1-4058-b916-435e62208936)
+![chatroom GUI](https://github.com/user-attachments/assets/50122a97-566c-402b-99cc-86f25288f9c1)
+![CLIENT](https://github.com/user-attachments/assets/b3b46256-b5e4-4005-aa33-ffb665f31450)
+![server side chats](https://github.com/user-attachments/assets/883d4630-c410-442d-baa8-d9541a2f5477)
+![overall connected window](https://github.com/user-attachments/assets/bd098fa8-66b4-4fd5-9435-197c0e41afc8)
+![ocw(in use)](https://github.com/user-attachments/assets/b126051b-3248-4b2e-bf7b-b1c7ec89c284)
+
+
 ## Contributing
 
 Contributions are welcome! Feel free to fork this repository, make your changes, and submit a pull request.
