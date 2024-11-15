@@ -26,8 +26,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/sifti-grover/PyChat.git
-   cd PyChat
+   git clone https://github.com/sifti-grover/PyChat---Real-Time-Chat-Application.git
    ```
 
 2. **Install Dependencies**:
