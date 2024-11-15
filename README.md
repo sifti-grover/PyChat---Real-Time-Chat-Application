@@ -1,5 +1,3 @@
-# sockets-chat-app-
-
 # PyChat - Real-Time Chat Application
 
 *PyChat* is a Python-based, real-time chat application that allows users to communicate instantly over a network. It includes a server module, a command-line client, and a GUI client for an enhanced user experience. Built using Python sockets, this project is a practical example of networking principles and socket programming.
