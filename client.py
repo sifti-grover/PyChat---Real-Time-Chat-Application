@@ -7,7 +7,7 @@ def send_messages(client_socket):
     while True:
         try:
             message = input("You: ")
-            if message.lower() == 'exit':  # Type 'exit' to disconnect
+            if message.lower() == 'exit': 
                 print("Disconnecting from server.")
                 client_socket.close()
                 break
